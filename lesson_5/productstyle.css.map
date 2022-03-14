@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "ACAA,OAAO,CAAC,kLAAI",
+    "sources": [
+        "productstyle.scss",
+        "_variables.scss"
+    ],
+    "names": [],
+    "file": "productstyle.css"
+}
